@@ -88,8 +88,51 @@ class Student {
 
     /**
      *
+     *  Assignmnet : Random Class ( 5 attributes, getter setter )
+     *  Class ko ArrayList ( 1 attribute ko base ma sort )
+     *  Map create
+     *  Map of Arraylist of the class
+     * They all are to be in separate Classes
+     *
+     * Install git
+     * Git Basic Kura ( )
+     *
+     * Linus Trovald - Linux OS
+     * GIT bhanne pani banako
+     *
+     * Version Control - Git Version Control
+     *
+     *
+     *  Git Server / Remote  --- (Code Rakhinchha )
+     *  Individual Developer - Remote Code Clone garchhan
+     *  Individual developer le code garchhan - remote ma push garchhan
+     *
+     *  Yeutai Class ma code :: pull garchhan, remote sanga local ko code uptodate hnchha, add garchhan, push garchhan
+     *
+     *  git push
+     *  git pull
+     *  git fetch
+     *  git commit
+     *  git merge
+     *
+     *  15.0.1  Version
+     *
+     * 15.0.2 Branch create garchhan tyas ma code garchhan - code QA test garchhan - production ma janchha
+     *
+     *
+     *
+     *
+     *  Baki kura git bare padhne
+     *
+     *  Git halna milchha ( git main program )
+     *  Git command line bata chalchha
+     *  GUI, git command lai use garera GUI haru pani painchha
+
+     *
+     *
      * iheritance
      * set, List, Map
+     * Computer Mysql ( command line )
      *
      * */
 
